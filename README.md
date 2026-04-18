@@ -45,6 +45,7 @@
 
 ### 📫 Reach me
 
+- LinkedIn: <https://www.linkedin.com/in/huongtran/>
 - ✉️ tranthuhuong.work@gmail.com
 - 📍 Hanoi, Vietnam
 
